@@ -31,9 +31,5 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, Happy Learning devops Moustapha for the future </h1>
-   <h1> Modif to see change for Pool SCM</h1>
-   <h1>modif for tests deploying directly</h1>
-
   
 </form>
