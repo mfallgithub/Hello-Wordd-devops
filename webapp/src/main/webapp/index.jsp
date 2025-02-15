@@ -9,7 +9,7 @@
     <br>
     
     <label for="mobile"><b>Enter mobile</b></label>
-    <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
+    <input type="text" placeholder="Enter moible number for test" name="mobile" id="mobile" required>
     <br>
 
     <label for="email"><b>Enter Email</b></label>
@@ -30,6 +30,4 @@
   <div class="container signin">
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
-
-  <h1>Test ansible command integrate into jenkins commit1</h1>
 </form>
